@@ -63,7 +63,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 <p>
     <a 
-        href="https://www.linkedin.com/in/guilherme-vargas-gall-9219b7182.exe/">
+        href="www.linkedin.com/in/guilhermevargasgall.exe/">
         LinkedIn
     </a>
     &nbsp;|&nbsp;
