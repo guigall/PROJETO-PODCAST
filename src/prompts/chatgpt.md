@@ -6,10 +6,8 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Assunto | me de 10 ideias de podcast sobre assuntos variáveis. Como por exemplo dinossauros, animes, desenhos, guerras e etc.{REGRAS} > Ideias inovadoras > PodCast chamativos
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Crie um roteiro de podcast com o Tema: Guerras famosas e estratégias militares. o Título do Podcast é "Campos de Batalha"
-O podcast seguirá a ordem a baixo:
-
+|  título  | gere um título e subtitulo sobre : "Campos de Batalha" Tema: Guerras famosas e estratégias militares. Diferencial: Convida estrategistas e historiadores para simular batalhas históricas e discutir como poderiam ter terminado de maneira diferente.                                                        |
+| conteúdo | Crie um roteiro de podcast com o Tema: Guerras famosas e estratégias militares. o Título do Podcast é "Campos de Batalha: Reescrevendo a História" O podcast seguirá a ordem a baixo: 
 [INTRODUÇÃO]
 [DEBATE]
 [CURIOSIDADE 1]
