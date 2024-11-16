@@ -14,7 +14,6 @@ ChatGPT：
 [CURIOSIDADE 2]
 [AGRADECIMENTO]
 [ENCERRAMENTO]
-
 [REGRAS}
 > a [INTRODUÇÃO] deve começar com o narrador falando: "Olá, eternos soldados de caxias"
 > o [DEBATE] tem o diferencial de Convidar estrategistas e historiadores para simular batalhas históricas e discutir como poderiam ter terminado de maneira diferente.
